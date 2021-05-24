@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ricardo",
+      "apellido": "Bret",
+      "telefono": "34567844",
+      "fecha":"02/09/2021",
+      "hora" : "11:30"
+    },
+    {
+        "id": 2,
+        "nombre": "Laura",
+        "apellido": "Cetz",
+        "telefono": "6781234509",
+        "fecha":"24/12/2021",
+        "hora" : "10:30"
+    },
+    {
+        "id": 3,
+        "nombre": "Miguel",
+        "apellido": "Mas",
+        "telefono": "9873450981",
+        "fecha":"23/09/2021",
+        "hora" : "22:30"
+    },
+    {
+        "id": 4,
+        "nombre": "Fatima",
+        "apellido": "Gonzales",
+        "telefono": "6783453216",
+        "fecha":"13/05/2021",
+        "hora" : "12:30"
+    },
+    {
+        "id": 5,
+        "nombre": "Esteban",
+        "apellido": "Castillo",
+        "telefono": "9994567651",
+        "fecha":"20/01/2021",
+        "hora" : "13:30"
+    },
+    {
+        "id": 6,
+      "nombre": "Marisol",
+      "apellido": "Magaña",
+      "telefono": "9812346785",
+      "fecha":"14/02/2021",
+      "hora" : "15:30"
+    }
+  ]

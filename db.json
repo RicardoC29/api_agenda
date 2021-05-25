@@ -1,10 +1,13 @@
-{
-  "usuarios": [
-    { "id": 1, 
-      "nombre": "Ricardo",
-      "apellido": "Cetz",
-      "telefono":"9872345671",
-      "fecha": "21/02/2021",
-      "hora": "12:34" }
-  ]
+[
+  
+  { "id": 1, 
+    "nombre": "Ricardo",
+    "apellido": "Cetz",
+    "telefono":"9872345671",
+    "fecha": "21/02/2021",
+    "hora": "12:34" 
 }
+
+]
+ 
+   
